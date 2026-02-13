@@ -2,6 +2,16 @@
 
 A Discord bot that automatically scrapes and posts internship opportunities from Australian job boards (Indeed, Seek, LinkedIn, GradConnection, Jora).
 
+## 🤖 Add This Bot to Your Server
+
+You can invite this bot to your Discord server using the following link:
+
+**[➡️ Invite Internship Bot to Your Server](https://discord.com/oauth2/authorize?client_id=1465612396448972861)**
+
+> **Note**: This bot is currently hosted on a free-tier server and may experience downtime. For the best experience, consider hosting your own instance using the instructions below.
+
+---
+
 ## 🚀 Features
 
 - **Multi-Platform Scraping**: Scrapes 5 major Australian job boards
@@ -23,6 +33,8 @@ A Discord bot that automatically scrapes and posts internship opportunities from
 - Discord Server with a channel for job postings
 
 ## 🛠️ Setup Instructions
+
+> **Want to use the public bot?** Simply use the [invite link above](#-add-this-bot-to-your-server) to add the bot to your server. The instructions below are only needed if you want to host your own instance.
 
 ### 1. Clone the Repository
 
